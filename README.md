@@ -1,6 +1,6 @@
 -  @Rel-yc
 -  I’m interested in python
--  I’m currently learning networking
+-  I’m currently learning Cybersecurity and security signature creation
 -  How to reach me: tcschool112@gmail.com
 
 <!---
